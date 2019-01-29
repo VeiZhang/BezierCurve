@@ -55,8 +55,8 @@ public class SecondOrderBezierView extends View {
 		// 根据控件的长宽初始化数据点和控制点
 		start.x = centerX - 200;
 		start.y = centerY;
-		end.x = centerX + 200;
-		end.y = centerY + 200;
+		end.x = centerX + 400;
+		end.y = centerY - 400;
 		control.x = centerX;
 		control.y = centerY - 100;
 	}

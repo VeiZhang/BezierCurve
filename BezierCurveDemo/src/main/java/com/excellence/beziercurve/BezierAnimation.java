@@ -2,7 +2,6 @@ package com.excellence.beziercurve;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
-import android.animation.ObjectAnimator;
 import android.animation.TypeEvaluator;
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -10,8 +9,6 @@ import android.graphics.PointF;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
-
-import static android.R.attr.start;
 
 /**
  * Created by ZhangWei on 2016/11/15.
